@@ -1,0 +1,1814 @@
+[
+    {
+        "_id": {
+            "$oid": "671e0c7419f10753bcfd7da7"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Open-Ended",
+        "difficulty_level": "Apply",
+        "question": "How would you apply the split-attention principle to design instructional materials for a software training program?",
+        "correct_answers": [
+            "In a software training program, instructional design can apply the split-attention principle by integrating text instructions directly within the on-screen demonstrations of software features, using callouts or on-screen guides to reduce the need for switching attention between different sources."
+        ],
+        "answer_options": [],
+        "explanation": "Integrating relevant instructions with visual guides directly reduces extraneous cognitive load, aiding learners in focusing on the task.",
+        "hint": "Consider how to present instructions and visual information together to minimize switching attention between manual and computer screens.",
+        "created_at": {
+            "$date": "2024-10-27T09:48:36.378Z"
+        },
+        "rubric": "3 points: Provides a detailed approach that fully integrates instructional materials with visual aids for seamless software training.\\n2 points: Suggests integration methods but lacks detail on execution or impact.\\n1 point: Mentions integration but inaccurately or insufficiently addresses application in software training.\\n0 points: Fails to mention actionable integration strategies or misapplies the principle."
+    },
+    {
+        "_id": {
+            "$oid": "671e0c7419f10753bcfd7da8"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Open-Ended",
+        "difficulty_level": "Apply",
+        "question": "If tasked to minimize split-attention in a multimedia learning module about mechanics, what specific techniques could you employ using augmented reality (AR)?",
+        "correct_answers": [
+            "Use AR to overlay instructions or information onto actual mechanical components, thereby reducing the need for attention shifts between physical objects and instructional materials."
+        ],
+        "answer_options": [],
+        "explanation": "AR can effectively integrate information by ensuring spatial contiguity, minimizing the cognitive load required to juxtapose visual and textual components.",
+        "hint": "Explore how virtual elements can complement real-world components to create an integrated learning experience.",
+        "created_at": {
+            "$date": "2024-10-27T09:48:36.569Z"
+        },
+        "rubric": "3 points: Details comprehensive AR applications linking virtual instructions with real-world mechanics accurately.\\n2 points: Mentions AR applications but misses specific examples or lacks full integration strategy.\\n1 point: Makes a basic statement about AR without linking to mechanics or integration needs.\\n0 points: Does not address AR use, or the response is irrelevant to applications in mechanics education."
+    },
+    {
+        "_id": {
+            "$oid": "671e0c7419f10753bcfd7da9"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Open-Ended",
+        "difficulty_level": "Apply",
+        "question": "What steps would you take to use eye-tracking technology to evaluate the effectiveness of learning materials designed to reduce split-attention?",
+        "correct_answers": [
+            "Implement eye-tracking to monitor gaze patterns and transitions between text and visuals. Analyze collected data to adjust material placement and integration strategies based on observed cognitive load and visual flow efficiency."
+        ],
+        "answer_options": [],
+        "explanation": "Eye-tracking helps pinpoint attention discrepancies and informs the refinement of instructional design to align with cognitive processes effectively.",
+        "hint": "Consider tracking where and how students look to understand the impact on their learning process.",
+        "created_at": {
+            "$date": "2024-10-27T09:48:36.592Z"
+        },
+        "rubric": "3 points: Effectively describes a protocol for applying eye-tracking insights to refine split-attention reduction techniques.\\n2 points: Outlines basic eye-tracking use with limited connection to optimizing materials.\\n1 points: Cites eye-tracking technology superficially without specific evaluation measures.\\n0 points: Fails to mention eye-tracking or provide relevant evaluation strategies."
+    },
+    {
+        "_id": {
+            "$oid": "671e0c7419f10753bcfd7daa"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Open-Ended",
+        "difficulty_level": "Apply",
+        "question": "In developing an online course, how would you apply the findings about extraneous cognitive load and the split-attention effect to improve the learning experience?",
+        "correct_answers": [
+            "Apply findings by creating integrated digital resources that embed text within video content, employ signaling to emphasize key parts, and offer learner-paced navigation to minimize cognitive overload."
+        ],
+        "answer_options": [],
+        "explanation": "Leveraging integrated materials and pacing adjusts cognitive demands, facilitating deeper learning through optimized multimedia integration.",
+        "hint": "Integrate related materials and control pacing to reduce unnecessary cognitive burden.",
+        "created_at": {
+            "$date": "2024-10-27T09:48:36.617Z"
+        },
+        "rubric": "3 points: Illustrates a clear application plan with specific tools and strategies that integrate findings into course design.\\n2 points: Provides general courses of action aligning with findings but lacks specifics on execution.\\n1 point: Mentions improvement strategies marginally related to cognitive load considerations.\\n0 points: Ignores cognitive load concepts or incorrectly applies them in the solution."
+    },
+    {
+        "_id": {
+            "$oid": "671e0ce519f10753bcfd7db0"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Apply",
+        "question": "How would you apply the split-attention principle to design instructional materials for a software training program?",
+        "correct_answers": [
+            "Integrate text instructions directly within on-screen demonstrations using callouts."
+        ],
+        "answer_options": [
+            "Use separate printed manuals for instructions and software screenshots.",
+            "Integrate text instructions directly within on-screen demonstrations using callouts.",
+            "Provide video tutorials without any text.",
+            "Use separate text documents describing software features."
+        ],
+        "explanation": "Integrating relevant instructions with visual demonstrations reduces extraneous cognitive load and helps learners focus on the task.",
+        "hint": "Consider how text and visuals can be combined to minimize attention shifts.",
+        "created_at": {
+            "$date": "2024-10-27T09:50:29.393Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671e0ce519f10753bcfd7db1"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Apply",
+        "question": "If tasked to minimize split-attention in a multimedia learning module about mechanics, what specific techniques could you employ using augmented reality (AR)?",
+        "correct_answers": [
+            "Use AR to overlay instructions on actual mechanical components."
+        ],
+        "answer_options": [
+            "Provide textual explanations separately from mechanical models.",
+            "Use AR to overlay instructions on actual mechanical components.",
+            "Show videos of mechanics without interactive elements.",
+            "Use detailed text-based descriptions without visuals."
+        ],
+        "explanation": "AR effectively integrates information by ensuring spatial contiguity, minimizing cognitive load.",
+        "hint": "Explore how virtual elements can be aligned with real-world components.",
+        "created_at": {
+            "$date": "2024-10-27T09:50:29.418Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671e0ce519f10753bcfd7db2"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Apply",
+        "question": "What steps would you take to use eye-tracking technology to evaluate the effectiveness of learning materials designed to reduce split-attention?",
+        "correct_answers": [
+            "Analyze gaze patterns and transitions between text and visuals."
+        ],
+        "answer_options": [
+            "Analyze gaze patterns and transitions between text and visuals.",
+            "Observe general classroom engagement levels without technology.",
+            "Use eye-tracking data to assess physical space layout.",
+            "Review performance outcomes without visual attention data."
+        ],
+        "explanation": "Eye-tracking helps identify attention discrepancies and refine instructional design based on cognitive processes.",
+        "hint": "Consider tracking where and how students look to understand learning impacts.",
+        "created_at": {
+            "$date": "2024-10-27T09:50:29.443Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671e0ce519f10753bcfd7db3"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Apply",
+        "question": "In developing an online course, how would you apply the findings about extraneous cognitive load and the split-attention effect to improve the learning experience?",
+        "correct_answers": [
+            "Integrate interactive digital content with text embedded in videos."
+        ],
+        "answer_options": [
+            "Create text-heavy resources with minimal visuals.",
+            "Integrate interactive digital content with text embedded in videos.",
+            "Use long lectures without interactive elements.",
+            "Provide video content separate from accompanying notes."
+        ],
+        "explanation": "Integrating interactive materials and pacing reduces cognitive demands, facilitating deeper learning.",
+        "hint": "Integrate materials and control pacing to reduce cognitive burden.",
+        "created_at": {
+            "$date": "2024-10-27T09:50:29.467Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671e0ce519f10753bcfd7db4"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Apply",
+        "question": "How can you apply the split-attention principle to enhance student engagement and comprehension when teaching a virtual lab session on assembling a complex model?",
+        "correct_answers": [
+            "Utilize interactive 3D models with guided instructions integrated into the visual interface."
+        ],
+        "answer_options": [
+            "Use standalone instruction manuals outside the virtual lab.",
+            "Utilize interactive 3D models with guided instructions integrated into the visual interface.",
+            "Provide only auditory instructions during the session.",
+            "Use traditional slides with separate notes."
+        ],
+        "explanation": "Embedding instructions within an interactive model reduces cognitive load, enhancing understanding and engagement.",
+        "hint": "Focus on integrating instructions with the model to keep student attention on learning.",
+        "created_at": {
+            "$date": "2024-10-27T09:50:29.492Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671e0d7b19f10753bcfd7db9"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "What is the main idea behind the split-attention principle in multimedia learning?",
+        "correct_answers": [
+            "It suggests that simultaneous presentation of text and visuals can lead to cognitive overload."
+        ],
+        "answer_options": [
+            "It emphasizes the importance of using only text in learning materials.",
+            "It suggests that simultaneous presentation of text and visuals can lead to cognitive overload.",
+            "It proposes that less information is always better for learning.",
+            "It supports the idea that learners should be given as many resources as possible."
+        ],
+        "explanation": "The split-attention principle emphasizes how presenting information in a way that reduces cognitive load is crucial for effective learning.",
+        "hint": "Think about how information presentation affects learning and memory.",
+        "created_at": {
+            "$date": "2024-10-27T09:52:59.493Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671e0d7b19f10753bcfd7dba"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "How does the split-attention effect impact students' learning during multimedia presentations?",
+        "correct_answers": [
+            "It can hinder their ability to process information effectively."
+        ],
+        "answer_options": [
+            "It can enhance their ability to multitask.",
+            "It can hinder their ability to process information effectively.",
+            "It has no real effect on their learning experience.",
+            "It allows them to learn more efficiently."
+        ],
+        "explanation": "The split-attention effect can create cognitive overload, making it difficult for students to effectively process the information presented in multimedia formats.",
+        "hint": "Consider how divided focus might affect comprehension levels.",
+        "created_at": {
+            "$date": "2024-10-27T09:52:59.518Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671e0d7b19f10753bcfd7dbb"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "Which scenario best illustrates the split-attention principle in action?",
+        "correct_answers": [
+            "A video tutorial that integrates spoken instructions while demonstrating an assembly process."
+        ],
+        "answer_options": [
+            "A video showing a lecture with no accompanying visuals.",
+            "A video tutorial with text instructions displayed separately from the demonstration.",
+            "A video tutorial that integrates spoken instructions while demonstrating an assembly process.",
+            "A simple text document explaining the assembly process."
+        ],
+        "explanation": "The scenario where spoken instructions are integrated into the demonstration minimizes cognitive load and exemplifies the split-attention principle.",
+        "hint": "Think about how integrated instructions can affect learning efficiency.",
+        "created_at": {
+            "$date": "2024-10-27T09:52:59.542Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671e0d7b19f10753bcfd7dbc"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "What are the implications of the split-attention effect for instructional design?",
+        "correct_answers": [
+            "It suggests that instructional materials should minimize the separation of relevant information."
+        ],
+        "answer_options": [
+            "It suggests that instructional materials should minimize the separation of relevant information.",
+            "It encourages using as many different media formats as possible.",
+            "It indicates that learners should rely solely on text.",
+            "It implies that traditional teaching methods are outdated."
+        ],
+        "explanation": "To create effective instructional design, materials must be structured to help learners focus on the relevant information without unnecessary separation.",
+        "hint": "Reflect on how information layout impacts learning.",
+        "created_at": {
+            "$date": "2024-10-27T09:52:59.566Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671e0df119f10753bcfd7dc0"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "What is the significance of the split-attention principle in multimedia learning?",
+        "correct_answers": [
+            "It helps design effective instructional materials that minimize cognitive load."
+        ],
+        "answer_options": [
+            "It encourages the use of more text.",
+            "It suggests using various analogies in teaching.",
+            "It helps design effective instructional materials that minimize cognitive load.",
+            "It promotes the idea to separate media from text."
+        ],
+        "explanation": "The split-attention principle is significant because it addresses how learners process information, ensuring that they can integrate and understand materials while minimizing cognitive overload.",
+        "hint": "Think about how the design of materials can affect learning efficiency.",
+        "created_at": {
+            "$date": "2024-10-27T09:54:57.927Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671e0df119f10753bcfd7dc1"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Apply",
+        "question": "In developing an online course, how would you apply the findings about extraneous cognitive load and the split-attention effect to improve the learning experience?",
+        "correct_answers": [
+            "Integrate interactive digital content with text embedded in videos."
+        ],
+        "answer_options": [
+            "Create text-heavy resources with minimal visuals.",
+            "Integrate interactive digital content with text embedded in videos.",
+            "Use long lectures without interactive elements.",
+            "Provide video content separate from accompanying notes."
+        ],
+        "explanation": "Integrating interactive materials and pacing reduces cognitive demands, facilitating deeper learning.",
+        "hint": "Integrate materials and control pacing to reduce cognitive burden.",
+        "created_at": {
+            "$date": "2024-10-27T09:54:57.957Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671e82cd19f10753bcfd7dd6"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "How does temporal integration help reduce cognitive load in multimedia learning?",
+        "correct_answers": [
+            "Present multiple sources simultaneously, reducing mental integration needs."
+        ],
+        "answer_options": [
+            "Temporarily separate sources, allowing the learner to process in parts.",
+            "Present multiple sources simultaneously, reducing mental integration needs.",
+            "Allow learners to choose when to view different sources.",
+            "Expand learning content over a longer time period."
+        ],
+        "explanation": "The correct answer reflects the benefit of integrating multimedia elements at the same time, which aids cognitive processes by minimizing mental effort needed to combine information from different sources.",
+        "hint": "Consider how combining different informational elements at the same time might impact cognitive processes and learning effectiveness.",
+        "created_at": {
+            "$date": "2024-10-27T18:13:33.150Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671e82cd19f10753bcfd7dd7"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "What was a key finding of Mayer and Anderson's research comparing words-before-pictures to simultaneous presentations?",
+        "correct_answers": [
+            "Simultaneous presentations improve problem-solving performance."
+        ],
+        "answer_options": [
+            "Sequential presentations increase cognitive load.",
+            "Simultaneous presentations improve problem-solving performance.",
+            "Words-before-pictures result in better retention.",
+            "Learning is unaffected by the order of presentation."
+        ],
+        "explanation": "The correct answer indicates that presenting information concurrently enhances students' ability to solve problems, highlighting the advantages of multimedia integration.",
+        "hint": "Think about how the timing of presenting information might influence learning outcomes.",
+        "created_at": {
+            "$date": "2024-10-27T18:13:33.343Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671e82cd19f10753bcfd7dd8"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Apply",
+        "question": "In what way might augmented reality technology be used to mitigate the split-attention effect in laboratory settings?",
+        "correct_answers": [
+            "By ensuring real-time virtual data aligns spatially with physical components."
+        ],
+        "answer_options": [
+            "By displaying virtual information remotely from the physical counterpart.",
+            "By ensuring real-time virtual data aligns spatially with physical components.",
+            "By requiring students to match virtual data with physical counterparts.",
+            "By providing detailed lectures and theoretical background separate from experiments."
+        ],
+        "explanation": "The correct answer emphasizes the importance of spatial alignment, which helps students relate virtual information to real-world objects, thus minimizing split-attention effects.",
+        "hint": "Consider how augmented reality might enhance the relationship between digital content and physical environments.",
+        "created_at": {
+            "$date": "2024-10-27T18:13:33.367Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671e82cd19f10753bcfd7dd9"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Apply",
+        "question": "How do attention-direction strategies, such as color-coding or segmentation, assist in managing split-attention in multimedia resources?",
+        "correct_answers": [
+            "They align text with diagrams in one visual field, reducing search effort."
+        ],
+        "answer_options": [
+            "They align text with diagrams in one visual field, reducing search effort.",
+            "They separate text and diagrams into different parts of the screen for clarity.",
+            "They remove the need for visual references altogether.",
+            "They increase the size of the text to make it more visible."
+        ],
+        "explanation": "The correct answer relates to how visual strategies can simplify the integration of information, helping learners reduce cognitive load by minimizing scanning needs between separate parts of the material.",
+        "hint": "Think about how visual organization can enhance comprehension and learning efficiency.",
+        "created_at": {
+            "$date": "2024-10-27T18:13:33.391Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671fb3304664da47ff349f98"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e56679edc17fff2a3ccd7"
+        },
+        "question_type": "True/False",
+        "difficulty_level": "Apply",
+        "question": "True or False: Mayer's research has shown that presenting verbal and diagrammatic materials in a spatially integrated format significantly enhances learning outcomes for all learners, regardless of their prior knowledge level.",
+        "correct_answers": [
+            "False"
+        ],
+        "answer_options": [
+            "True",
+            "False"
+        ],
+        "explanation": "Mayer's research indicates that integrating text and diagrams leads to better learning outcomes, particularly for students with a lower prior knowledge base. However, for those with a greater understanding, the benefit of integration is not as pronounced.",
+        "hint": "Consider how students' prior knowledge affects their ability to process integrated versus separated information.",
+        "created_at": {
+            "$date": "2024-10-28T15:52:16.832Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671fb3f54664da47ff349fac"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e56679edc17fff2a3ccd7"
+        },
+        "question_type": "True/False",
+        "difficulty_level": "Apply",
+        "question": "True or False: Encouraging learners to physically interact with learning materials by drawing arrows and using highlighting techniques can improve their ability to manage split-attention materials compared to instructor-integrated approaches.",
+        "correct_answers": [
+            "False"
+        ],
+        "answer_options": [
+            "True",
+            "False"
+        ],
+        "explanation": "While physically interacting with materials such as drawing arrows and using highlighters aids in managing split-attention, studies have shown that instructor-integrated materials often provide more significant advantages over self-managed methods, particularly when instructionally-designed materials are optimized.",
+        "hint": "Consider how various studies have compared different approaches to managing split-attention and how instructor-led integration typically performs in these settings.",
+        "created_at": {
+            "$date": "2024-10-28T15:55:33.262Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671fd7e74664da47ff349fbe"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "How does element interactivity influence learning in the context of computer-based multimedia environments?",
+        "correct_answers": [
+            "It affects how learners engage with materials and manage cognitive load.",
+            "Higher interactivity generally leads to better learning outcomes.",
+            "It can cause distractions if not implemented effectively."
+        ],
+        "answer_options": [
+            "It affects how learners engage with materials and manage cognitive load.",
+            "Higher interactivity generally leads to better learning outcomes.",
+            "It can cause distractions if not implemented effectively.",
+            "Increased interactivity is always beneficial, no matter the context."
+        ],
+        "explanation": "Element interactivity refers to how different elements in a multimedia environment work together to affect learning. A balance must be struck; too much interactivity without clear guidance can lead to cognitive overload, whereas well-designed interactivity can enhance engagement and comprehension.",
+        "hint": "Consider how interactive elements in multimedia can either support or overwhelm learners' understanding based on their design and integration.",
+        "created_at": {
+            "$date": "2024-10-28T18:28:55.616Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671fd8df4664da47ff349fc6"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "How does spatial ability influence the impact of split-attention in learning environments?",
+        "correct_answers": [
+            "Individuals with high spatial ability can better integrate physically separated sources of information, reducing the split-attention effect."
+        ],
+        "answer_options": [
+            "Individuals with high spatial ability can better integrate physically separated sources of information, reducing the split-attention effect.",
+            "Spatial ability has no influence on the split-attention effect in learning environments.",
+            "Individuals with low spatial ability find it easier to handle information from separate sources due to their lack of advanced processing strategies.",
+            "Increasing spatial separation always diminishes the negative impact of split-attention on individuals regardless of their spatial abilities."
+        ],
+        "explanation": "Spatial ability strongly influences how learners can mentally manipulate and integrate separate information sources. Those with higher spatial ability are generally more adept at integrating disparate elements, mitigating the impact of the split-attention effect.",
+        "hint": "Consider how differences in spatial processing skills might affect a person's ability to combine information from text and diagrams.",
+        "created_at": {
+            "$date": "2024-10-28T18:33:03.110Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671fd9874664da47ff349fcd"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "Why does the split-attention effect apply to learning in virtual reality environments?",
+        "correct_answers": [
+            "In virtual reality, learners often need to process complex information from multiple sensory inputs, requiring high element interactivity."
+        ],
+        "answer_options": [
+            "In virtual reality, learners often need to process complex information from multiple sensory inputs, requiring high element interactivity.",
+            "Virtual reality environments inherently have low element interactivity, minimizing the split-attention effect.",
+            "The immersive nature of virtual reality ensures that attention is not divided among different sources of information.",
+            "Virtual reality simplifies cognitive processing, therefore the split-attention effect is not applicable."
+        ],
+        "explanation": "In virtual reality, the split-attention effect is relevant because learners must integrate information across multiple sensory modalities and various elements, leading to high cognitive demands and the potential for overload if information isn't properly integrated.",
+        "hint": "Consider how virtual reality setups require attention to multiple simultaneous inputs.",
+        "created_at": {
+            "$date": "2024-10-28T18:35:51.173Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671fdb1b4664da47ff349fd7"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Open-Ended",
+        "difficulty_level": "Evaluate",
+        "question": "How does the immersive nature of virtual reality environments impact the occurrence of the split-attention effect, and what strategies can be employed to mitigate its effects?",
+        "correct_answers": [
+            "A well-rounded answer could discuss how virtual reality's immersive nature can intensify split-attention by requiring users to process multiple streams of information simultaneously. Effective strategies may include designing interfaces that integrate complementary information and reduce cognitive load."
+        ],
+        "answer_options": [],
+        "explanation": "In virtual reality, the potential for split-attention arises due to the requirement to process vast amounts of sensory information, which can lead to cognitive overload. Evaluating this interplay involves understanding how various elements in VR environments can either exacerbate or mitigate this effect through careful design.",
+        "hint": "Consider the challenges of processing multiple inputs in virtual reality and how design choices can influence cognitive load.",
+        "created_at": {
+            "$date": "2024-10-28T18:42:35.163Z"
+        },
+        "rubric": "  - 3 points: Fully addresses how virtual reality intensifies split-attention and proposes comprehensive strategies to mitigate these effects.\n  - 2 points: Partially explains the interplay or offers some strategies without complete detail.\n  - 1 point: Mentions relevant concepts but lacks detail in explanation and strategy.\n  - 0 points: Does not address the question or provides irrelevant information."
+    },
+    {
+        "_id": {
+            "$oid": "671fdbba4664da47ff349fde"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Apply",
+        "question": "Which of the following design strategies can help reduce split attention in virtual reality learning environments?",
+        "correct_answers": [
+            "Using augmented reality to present virtual information in proximity to physical components.",
+            "Applying hypertext strategies to provide pop-up information upon user interaction.",
+            "Directing attention through gestures or color coding to link text and diagrams."
+        ],
+        "answer_options": [
+            "Using augmented reality to present virtual information in proximity to physical components.",
+            "Applying hypertext strategies to provide pop-up information upon user interaction.",
+            "Separating information onto different screens to avoid overload.",
+            "Directing attention through gestures or color coding to link text and diagrams."
+        ],
+        "explanation": "Effective strategies like augmented reality, hypertext, and attention-directing techniques aim to minimize the cognitive load by integrating or closely aligning information, enhancing the learner's ability to process and understand the material.",
+        "hint": "Consider strategies that integrate or align information spatially and temporally to minimize cognitive load.",
+        "created_at": {
+            "$date": "2024-10-28T18:45:14.654Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671fdc3b4664da47ff349fe5"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Evaluate",
+        "question": "Which of the following factors have been shown to moderate the split-attention effect according to meta-analyses?",
+        "correct_answers": [
+            "High element interactivity in materials",
+            "Older students as participants",
+            "Various types of tasks and learning domains"
+        ],
+        "answer_options": [
+            "High element interactivity in materials",
+            "Older students as participants",
+            "Redundant information provided solely through text",
+            "Various types of tasks and learning domains"
+        ],
+        "explanation": "Meta-analyses have identified several moderators of the split-attention effect, including the complexity of materials, participant age, types of tasks, and domains, highlighting varied influences on the effect's magnitude.",
+        "hint": "Consider both the complexity of the educational content and demographic factors that might influence how information is processed.",
+        "created_at": {
+            "$date": "2024-10-28T18:47:23.888Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671fdcd54664da47ff349fec"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Evaluate",
+        "question": "Is \"High element interactivity in materials\" a positive or negative moderator of the split-attention effect?",
+        "correct_answers": [
+            "Positive moderator"
+        ],
+        "answer_options": [
+            "Positive moderator",
+            "Negative moderator"
+        ],
+        "explanation": "High element interactivity typically increases cognitive load but in structured contexts may help engage deeper cognitive processing.",
+        "hint": "Consider how complex materials engage learners.",
+        "created_at": {
+            "$date": "2024-10-28T18:49:57.934Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671fdcd54664da47ff349fed"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Evaluate",
+        "question": "Does \"Older students as participants\" act as a positive or negative moderator of the split-attention effect?",
+        "correct_answers": [
+            "Positive moderator"
+        ],
+        "answer_options": [
+            "Positive moderator",
+            "Negative moderator"
+        ],
+        "explanation": "Older students might have more experience and strategies to manage split attention, thus moderating the effect positively.",
+        "hint": "Think about how age and experience might influence processing ability.",
+        "created_at": {
+            "$date": "2024-10-28T18:49:57.972Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671fdcd54664da47ff349fee"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Evaluate",
+        "question": "Is \"Redundant information provided solely through text\" a positive or negative moderator of the split-attention effect?",
+        "correct_answers": [
+            "Negative moderator"
+        ],
+        "answer_options": [
+            "Positive moderator",
+            "Negative moderator"
+        ],
+        "explanation": "Providing information redundantly, especially only in text form, can overload cognitive resources without aiding understanding.",
+        "hint": "Consider how unnecessary information might impact learning effectiveness.",
+        "created_at": {
+            "$date": "2024-10-28T18:49:57.996Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "671fdcd64664da47ff349fef"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Evaluate",
+        "question": "Do \"Various types of tasks and learning domains\" serve as a positive or negative moderator of the split-attention effect?",
+        "correct_answers": [
+            "Positive moderator"
+        ],
+        "answer_options": [
+            "Positive moderator",
+            "Negative moderator"
+        ],
+        "explanation": "Diverse tasks and domains can help contextualize learning, allowing learners to apply skills in varied contexts.",
+        "hint": "Think about the benefits of diverse task types in learning contexts.",
+        "created_at": {
+            "$date": "2024-10-28T18:49:58.020Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "6720b7044664da47ff34a005"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e5669b51b7e4923b14386"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "Under which condition might the split-attention principle not manifest due to low cognitive demand?",
+        "correct_answers": [
+            "When materials have low element interactivity"
+        ],
+        "answer_options": [
+            "When materials have low element interactivity",
+            "When learners are novices in the subject matter",
+            "When redundant information is integrated into the learning task",
+            "When the logical relation between information sources is not critical"
+        ],
+        "explanation": "The split-attention effect does not typically manifest when materials are low in element interactivity because learners can process elements individually without needing complex integration, thus reducing cognitive load.",
+        "hint": "Consider what happens when information doesn't require integration for understanding.",
+        "created_at": {
+            "$date": "2024-10-29T10:20:52.940Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "6720b9034664da47ff34a015"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e5669b51b7e4923b14386"
+        },
+        "question_type": "Open-Ended",
+        "difficulty_level": "Apply",
+        "question": "Imagine a biology lesson where the process of photosynthesis is explained using split-source materials: separate diagrams and textual explanations. How would you redesign these materials to minimize the extraneous cognitive load imposed by the split-attention effect? Provide a concrete example of how you would integrate the visual and textual information, and suggest further adaptations a student might make.",
+        "correct_answers": [
+            "An example answer might include incorporating explanatory labels directly onto the parts of the diagram showing the steps of photosynthesis, such as noting 'carbon dioxide' next to the diagram of a leaf's stomata. Additionally, associating text with arrows or lines pointing to relevant diagram parts can help learners follow the process without needing to constantly switch attention between sources."
+        ],
+        "answer_options": [],
+        "explanation": "Integrating text and visuals directly helps learners understand complex processes more efficiently, reducing the need to mentally integrate disparate information, which can overload working memory.",
+        "hint": "Think about how you can lay out text and visuals together to reduce unnecessary mental effort for the learner in understanding each step.",
+        "created_at": {
+            "$date": "2024-10-29T10:29:23.710Z"
+        },
+        "rubric": "  - 3 points: Fully addresses the integration of diagram and text with practical adaptations for reducing extraneous cognitive load in understanding photosynthesis.\n  - 2 points: Partially addresses the integration, providing some useful suggestions, but lacking in detail or full coverage.\n  - 1 point: Mentions integration or adaptations but with limited explanation or practicality.\n  - 0 points: Does not address the question or provides irrelevant information."
+    },
+    {
+        "_id": {
+            "$oid": "6720ba204664da47ff34a025"
+        },
+        "document_index": 2,
+        "user_id": {
+            "$oid": "670e5669b51b7e4923b14386"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Evaluate",
+        "question": "Evaluate which alternative strategy for preventing split-attention might be most suitable in a university-level physics lab course that involves both virtual and physical components.",
+        "correct_answers": [
+            "Employing augmented reality to overlay virtual data onto physical components in real-time."
+        ],
+        "answer_options": [
+            "Using color-coding systems to connect text with diagrams.",
+            "Employing augmented reality to overlay virtual data onto physical components in real-time.",
+            "Implementing hypertext strategies with pop-up text features.",
+            "Adopting gesturing techniques for physical interaction with materials."
+        ],
+        "explanation": "In a physics lab course with both virtual and physical elements, overlaying virtual data onto physical components in real-time using augmented reality can more effectively reduce cognitive load by directly integrating necessary information in the learner's field of view.",
+        "hint": "Consider the approach that provides real-time, spatially contiguous information integration essential for experiments.",
+        "created_at": {
+            "$date": "2024-10-29T10:34:08.326Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "673220404664da47ff34a0cf"
+        },
+        "document_index": 3,
+        "user_id": {
+            "$oid": "670e56679edc17fff2a3ccd7"
+        },
+        "question_type": "True/False",
+        "difficulty_level": "Understand",
+        "question": "True or False: According to the suppression hypothesis, emotions can broaden cognitive resources and serve as a retrieval cue for information.",
+        "correct_answers": [
+            "False"
+        ],
+        "answer_options": [],
+        "explanation": "The suppression hypothesis suggests that emotion processing makes demands on working memory resources, thereby reducing available resources for processing task-relevant information. In contrast, the facilitation hypothesis describes how emotion can broaden cognitive resources and be used as a retrieval cue.",
+        "hint": "Consider what each hypothesis (suppression vs. facilitation) says about the interaction between emotions and cognitive resources.",
+        "created_at": {
+            "$date": "2024-11-11T15:18:24.901Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "673220ba4664da47ff34a0da"
+        },
+        "document_index": 3,
+        "user_id": {
+            "$oid": "670e56679edc17fff2a3ccd7"
+        },
+        "question_type": "Open-Ended",
+        "difficulty_level": "Apply",
+        "question": "How can positive emotions impact cognitive processes and learning outcomes according to the research presented in this section?",
+        "correct_answers": [
+            "Positive emotions can improve memory and attention, enhance higher-level cognitive activities such as creative problem-solving, negotiation, and decision-making, and increase learners' motivation which positively affects learning outcomes."
+        ],
+        "answer_options": [],
+        "explanation": "Positive emotions enhance memory, attention, and cognitive processes such as problem-solving by providing additional cognitive resources and serving as retrieval cues, ultimately boosting motivation and learning outcomes.",
+        "hint": "Consider the relationship between emotions and cognitive and learning activities mentioned in the text.",
+        "created_at": {
+            "$date": "2024-11-11T15:20:26.426Z"
+        },
+        "rubric": "  - 3 points: Fully addresses how positive emotions affect memory, cognitive tasks, and motivation, providing detailed examples.\n  - 2 points: Partially addresses the impact on memory and learning but lacks specific examples or details.\n  - 1 point: Mentions relevant concepts like memory but provides minimal explanation or examples.\n  - 0 points: Does not address the impact of emotions on the cognitive process or learning."
+    },
+    {
+        "_id": {
+            "$oid": "67458d9d2404b4081366c4bd"
+        },
+        "document_index": 4,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "True/False",
+        "difficulty_level": "Remember",
+        "question": "True or False: In multimedia learning, pre-instructing learners on how to process different representations can help reduce extraneous processing by enabling them to better integrate multiple information sources.",
+        "correct_answers": [
+            "True"
+        ],
+        "answer_options": [],
+        "explanation": "Giving learners metacognitive knowledge on processing different representations allows them to effectively handle information in multimedia environments, thereby reducing unnecessary cognitive load.",
+        "hint": "Think about how organizing and guiding the learning process impacts cognitive load.",
+        "created_at": {
+            "$date": "2024-11-26T08:58:05.595Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "67458e532404b4081366c4c7"
+        },
+        "document_index": 4,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "How can cue cards be effectively used in multimedia learning to reduce extraneous processing?",
+        "correct_answers": [
+            "By providing specific instructions on when to refer to each information source."
+        ],
+        "answer_options": [
+            "By providing specific instructions on when to refer to each information source.",
+            "By highlighting key terms in the text with distinct colors.",
+            "By summarizing the content using bullet points.",
+            "By offering detailed explanations of each multimedia element."
+        ],
+        "explanation": "Cue cards can be used to guide learners on when to refer to different information sources, helping them to efficiently process and integrate multimedia materials.",
+        "hint": "Consider how guiding access to information sources helps manage the learning process better.",
+        "created_at": {
+            "$date": "2024-11-26T09:01:07.681Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "674590522404b4081366c4d7"
+        },
+        "document_index": 4,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Apply",
+        "question": "How can the concept of sequence effects be applied to optimize the use of multimedia learning materials in worked examples?",
+        "correct_answers": [
+            "By presenting prerequisites before introducing complex examples to build foundational understanding."
+        ],
+        "answer_options": [
+            "By arranging multimedia elements in random order to enhance engagement.",
+            "By presenting prerequisites before introducing complex examples to build foundational understanding.",
+            "By ensuring that all multimedia components are displayed simultaneously to avoid overload.",
+            "By following a strict chronological order that mirrors the learners' real-life experiences."
+        ],
+        "explanation": "Sequence effects suggest that providing learners with foundational knowledge and prerequisites before exposing them to complex examples can help reinforce learning by building on prior knowledge.",
+        "hint": "Think about how content should be structured to support gradual and effective learning.",
+        "created_at": {
+            "$date": "2024-11-26T09:09:38.737Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "674591082404b4081366c4e1"
+        },
+        "document_index": 4,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "How does eye-movement modeling as a pre-training strategy enhance the effectiveness of worked examples in multimedia learning?",
+        "correct_answers": [
+            "It helps learners focus on important aspects of the example by demonstrating optimal visual attention."
+        ],
+        "answer_options": [
+            "It trains learners to memorize visual content without engaging cognitive resources.",
+            "It helps learners focus on important aspects of the example by demonstrating optimal visual attention.",
+            "It reduces the time learners spend on each example by accelerating their reading pace.",
+            "It encourages learners to explore multiple interpretations of the example concurrently."
+        ],
+        "explanation": "Eye-movement modeling can guide learners by showing them where to allocate their visual attention, which helps in understanding key components and reducing cognitive overload.",
+        "hint": "Consider how directing visual attention can support comprehension of essential elements in multimedia examples.",
+        "created_at": {
+            "$date": "2024-11-26T09:12:40.349Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "674592372404b4081366c4eb"
+        },
+        "document_index": 3,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "How does the Control-Value Theory explain the role of emotions in the learning process?",
+        "correct_answers": [
+            "Emotions are influenced by the level of perceived control and the value attributed to learning tasks and outcomes."
+        ],
+        "answer_options": [
+            "Emotions are irrelevant to the learning process and have no impact on outcomes.",
+            "Emotions are influenced by the level of perceived control and the value attributed to learning tasks and outcomes.",
+            "Emotions only affect learning if they are negative, as they diminish cognitive resources.",
+            "Emotions are solely a result of external factors and do not originate from the learning context."
+        ],
+        "explanation": "According to the Control-Value Theory, learners' emotions arise from their appraisal of the control they have over a task and the value they assign to it. These emotions, whether positive or negative, impact learning and achievement.",
+        "hint": "Think about how feelings of control and the importance of a task might influence your emotional response during learning.",
+        "created_at": {
+            "$date": "2024-11-26T09:17:43.120Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "674592c42404b4081366c4f2"
+        },
+        "document_index": 3,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Apply",
+        "question": "How might the Cognitive-Affective Model of Learning with Multimedia (ICALM) influence the way you design an educational video to improve student engagement and learning outcomes?",
+        "correct_answers": [
+            "Integrate interactive elements that trigger both cognitive and affective responses to reinforce learning."
+        ],
+        "answer_options": [
+            "Integrate interactive elements that trigger both cognitive and affective responses to reinforce learning.",
+            "Focus solely on content delivery without consideration of emotional engagement.",
+            "Minimize the use of emotions in the design to avoid distractions from the educational content.",
+            "Ensure that the video content appeals only to the affective domain through engaging storytelling."
+        ],
+        "explanation": "The Cognitive-Affective Model suggests that both cognitive and emotional processes are interlinked and together enhance the learning experience. Effective educational design should stimulate both processes simultaneously for optimal engagement and retention.",
+        "hint": "Consider ways to incorporate elements that engage both the mind and emotions in multimedia learning.",
+        "created_at": {
+            "$date": "2024-11-26T09:20:04.349Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "674593862404b4081366c4f9"
+        },
+        "document_index": 3,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Evaluate",
+        "question": "When considering trade-offs in the emotional design principle for instructional design, what would be an important aspect to evaluate when implementing emotional elements to enhance learning outcomes?",
+        "correct_answers": [
+            "Assess whether emotional arousal, rather than valence, affects learning effectiveness.",
+            "Evaluate the adequacy of user experience focus in other learning environments compared to games."
+        ],
+        "answer_options": [
+            "Assess whether emotional arousal, rather than valence, affects learning effectiveness.",
+            "Determine if positive emotions alone can achieve desired learning outcomes.",
+            "Evaluate the adequacy of user experience focus in other learning environments compared to games.",
+            "Consider if including haptic design elements is more critical than narrative design in emotional engagement."
+        ],
+        "explanation": "The trade-offs in emotional design involve understanding whether activating emotions, irrespective of being positive or negative, better facilitates learning than solely focusing on valence. Additionally, learning environments should aim to match the user experience focus that is seen in game design, which effectively incorporates emotional design elements.",
+        "hint": "Consider aspects that influence both emotional activation and user experience in learning settings.",
+        "created_at": {
+            "$date": "2024-11-26T09:23:18.789Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "674594852404b4081366c503"
+        },
+        "document_index": 3,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "How does the focus on user experience in game design differ from other learning environments, and what is implied about its importance according to the emotional design principle?",
+        "correct_answers": [
+            "Games emphasize user experience and emotional design more strongly than other learning environments, contributing to their learning effectiveness."
+        ],
+        "answer_options": [
+            "Games emphasize user experience and emotional design more strongly than other learning environments, contributing to their learning effectiveness.",
+            "Games consider cognitive load theory to a greater extent than emotional design.",
+            "Other learning environments prioritize emotional design over user experience.",
+            "The primary focus in both games and other learning environments is on maintaining a neutral emotional state for learners."
+        ],
+        "explanation": "Emotional design in games often includes a strong focus on the user experience, which is less emphasized in other learning environments. This focus is believed to enhance the effectiveness of learning in games by activating emotions that facilitate learning.",
+        "hint": "Consider what aspect of design is particularly emphasized in games that isn't as common in other instructional design processes.",
+        "created_at": {
+            "$date": "2024-11-26T09:27:33.965Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "6745950b2404b4081366c50a"
+        },
+        "document_index": 3,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Evaluate",
+        "question": "Which aspect of design is particularly emphasized in games, contributing to their effectiveness, that is not as common in other instructional design processes?",
+        "correct_answers": [
+            "The use of emotional design elements such as characters with round shapes and warm colors to induce positive emotions."
+        ],
+        "answer_options": [
+            "The use of emotional design elements such as characters with round shapes and warm colors to induce positive emotions.",
+            "The inclusion of cognitive overload to challenge the users' processing skills.",
+            "Prioritizing the teaching of core content without emotional interference.",
+            "The reliance on traditional teaching methods that focus mainly on textual information."
+        ],
+        "explanation": "Emotional design in games often incorporates elements such as character design and color schemes to evoke positive emotions and enhance engagement, a strategy less emphasized in traditional instructional settings. This approach tends to improve engagement and potentially benefits cognitive skills, as seen with round shapes and warm colors inducing positive emotions.",
+        "hint": "Consider how visual aesthetics and emotional appeal are used in game design to maintain engagement.",
+        "created_at": {
+            "$date": "2024-11-26T09:29:47.837Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "67558c7f16c5aace02e78e1d"
+        },
+        "document_index": 5,
+        "user_id": {
+            "$oid": "673de1fa037003fa973d185a"
+        },
+        "question_type": "Open-ended",
+        "difficulty_level": "Understand",
+        "question": "Explain how the expertise reversal principle can impact the effectiveness of multimedia learning for both novice and expert learners.",
+        "correct_answers": [
+            "The expertise reversal principle suggests that instructional strategies effective for novices may not be appropriate for experts due to differences in cognitive load management."
+        ],
+        "answer_options": [],
+        "explanation": "This principle guides educators to adapt their teaching strategies based on the learners' prior knowledge to optimize learning outcomes.",
+        "hint": "Consider the roles of cognitive load and the knowledge level of learners.",
+        "created_at": {
+            "$date": "2024-12-08T12:09:35.776Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "67558c7f16c5aace02e78e1e"
+        },
+        "document_index": 5,
+        "user_id": {
+            "$oid": "673de1fa037003fa973d185a"
+        },
+        "question_type": "Open-ended",
+        "difficulty_level": "Understand",
+        "question": "What are the implications of the expertise reversal principle for instructional design in multimedia learning environments?",
+        "correct_answers": [
+            "Instructional designs should evolve as learner expertise increases, moving from highly structured to less structured forms of instruction."
+        ],
+        "answer_options": [],
+        "explanation": "This ensures that instructional materials remain effective and do not overload learners who have developed prior knowledge.",
+        "hint": "Think about how learner needs change over time.",
+        "created_at": {
+            "$date": "2024-12-08T12:09:35.963Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "67558c7f16c5aace02e78e1f"
+        },
+        "document_index": 5,
+        "user_id": {
+            "$oid": "673de1fa037003fa973d185a"
+        },
+        "question_type": "Open-ended",
+        "difficulty_level": "Apply",
+        "question": "How can educators assess when to adapt their instructional strategies according to the expertise reversal principle?",
+        "correct_answers": [
+            "Educators can use assessments, observations, and feedback to gauge learner understanding and adjust their materials accordingly."
+        ],
+        "answer_options": [],
+        "explanation": "Monitoring learner progress helps in recognizing when a shift in instructional strategy is necessary.",
+        "hint": "Consider assessment tools and feedback mechanisms.",
+        "created_at": {
+            "$date": "2024-12-08T12:09:35.986Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "67558c8016c5aace02e78e20"
+        },
+        "document_index": 5,
+        "user_id": {
+            "$oid": "673de1fa037003fa973d185a"
+        },
+        "question_type": "Open-ended",
+        "difficulty_level": "Evaluate",
+        "question": "Critically evaluate how the expertise reversal principle can inform the development of online educational resources.",
+        "correct_answers": [
+            "Online educational resources should be designed with flexibility to cater to varying expertise levels, ensuring that novices receive the necessary support while experts are not overloaded."
+        ],
+        "answer_options": [],
+        "explanation": "This balanced approach aids in maximizing learning for diverse audiences.",
+        "hint": "Reflect on the needs of different learner groups in online education.",
+        "created_at": {
+            "$date": "2024-12-08T12:09:36.011Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "6757fea0492fd44784ee2e8d"
+        },
+        "document_index": 5,
+        "user_id": {
+            "$oid": "670e56679edc17fff2a3ccd7"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Remember",
+        "question": "What is the primary focus of studies on multimedia design principles according to the introduction of the expertise reversal principle?",
+        "correct_answers": [
+            "They focus primarily on learners who have limited experience in the relevant domain."
+        ],
+        "answer_options": [
+            "They focus primarily on learners who have limited experience in the relevant domain.",
+            "They always utilize the same methods regardless of the learner's expertise level.",
+            "They focus exclusively on highly experienced learners in specialized fields.",
+            "They aim to develop hybrid instructional techniques applicable to all learner types."
+        ],
+        "explanation": "The introduction highlights that multimedia design principles were primarily developed through studies involving novices, as these individuals typically require more guidance.",
+        "hint": "Consider who is most in need of instruction when it comes to new learning principles.",
+        "created_at": {
+            "$date": "2024-12-10T08:41:04.559Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "6757fea0492fd44784ee2e8e"
+        },
+        "document_index": 5,
+        "user_id": {
+            "$oid": "670e56679edc17fff2a3ccd7"
+        },
+        "question_type": "True/False",
+        "difficulty_level": "Understand",
+        "question": "True or False: According to cognitive load theory, integrating instructional explanations with schemas held in long-term memory always improves learning outcomes for experts.",
+        "correct_answers": [
+            "False"
+        ],
+        "answer_options": [],
+        "explanation": "Cognitive load theory suggests that presenting detailed explanations to knowledgeable learners, when they are already familiar with the content, can interfere with their ability to retrieve and use their schemas, leading to cognitive overload rather than improved learning outcomes.",
+        "hint": "Consider whether detailed instructions are beneficial for those who already have a deep understanding of the subject.",
+        "created_at": {
+            "$date": "2024-12-10T08:41:04.751Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "6757fea0492fd44784ee2e8f"
+        },
+        "document_index": 5,
+        "user_id": {
+            "$oid": "670e56679edc17fff2a3ccd7"
+        },
+        "question_type": "Open-Ended",
+        "difficulty_level": "Understand",
+        "question": "How does the expertise reversal principle relate to cognitive load theory, and what are its implications for the instructional design of materials aimed at learners with varying levels of expertise?",
+        "correct_answers": [
+            "One example answer could explore how the expertise reversal principle suggests that materials designed for learners of varying expertise levels should account for potential cognitive overload in experts due to redundant information. Instructional design should consider the knowledge level of the learners and adjust the presentation of information to ensure that experts are not overwhelmed by explanations they already understand while novices receive the detailed guidance they need."
+        ],
+        "answer_options": [],
+        "explanation": "The expertise reversal principle within cognitive load theory highlights the necessity of adapting instructional materials to the learner's level of expertise. Detailed information beneficial to novices can lead to cognitive overload in experts due to unnecessary processing, suggesting significant implications for tailoring educational approaches.",
+        "hint": "Think about how different levels of expertise impact the way information is processed and what this means for designing instructional materials.",
+        "created_at": {
+            "$date": "2024-12-10T08:41:04.774Z"
+        },
+        "rubric": " - 3 points: Fully addresses the impact of the expertise reversal principle on cognitive load theory and offers detailed implications for instructional design, specifically relating to varying expertise levels and potential cognitive overload.\n - 2 points: Partially addresses the expertise reversal principle\u2019s effect on cognitive load theory with some implications for instructional design, but lacking detail.\n - 1 point: Mentions relevant concepts related to the expertise reversal principle and cognitive load theory, but lacks sufficient explanation or implications.\n - 0 points: Does not address the question or provides irrelevant information."
+    },
+    {
+        "_id": {
+            "$oid": "677727232a82e6f8f5de9f47"
+        },
+        "document_index": 6,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "True/False",
+        "difficulty_level": "Understand",
+        "question": "Social cues in multimedia learning are primarily focused on reducing extraneous cognitive processing.",
+        "correct_answers": [
+            "False"
+        ],
+        "answer_options": [],
+        "explanation": "Social cues are aimed at enhancing meaningful learning by fostering generative processing, not merely reducing extraneous cognitive load.",
+        "hint": "Think about how social cues relate to student motivation and engagement rather than just cognitive processing.",
+        "created_at": {
+            "$date": "2025-01-02T23:54:11.415Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "677727232a82e6f8f5de9f48"
+        },
+        "document_index": 6,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "True/False",
+        "difficulty_level": "Understand",
+        "question": "Research suggests that incorporating social cues can create a sense of partnership between the learner and the instructor, which fosters deeper learning.",
+        "correct_answers": [
+            "True"
+        ],
+        "answer_options": [],
+        "explanation": "Social cues help establish a connection that encourages students to engage in more meaningful learning processes.",
+        "hint": "Consider how a learner's perception of working with an instructor might affect their engagement with the material.",
+        "created_at": {
+            "$date": "2025-01-02T23:54:11.612Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "677727232a82e6f8f5de9f49"
+        },
+        "document_index": 6,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "True/False",
+        "difficulty_level": "Understand",
+        "question": "Including an instructor\u2019s image during multimedia lessons always results in better learning outcomes because it enhances cognitive engagement.",
+        "correct_answers": [
+            "False"
+        ],
+        "answer_options": [],
+        "explanation": "Research indicates that incorporating the instructor's image does not necessarily improve learning outcomes and can sometimes be distracting.",
+        "hint": "Analyze whether visual elements always contribute to cognitive engagement positively.",
+        "created_at": {
+            "$date": "2025-01-02T23:54:11.635Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "677727232a82e6f8f5de9f4a"
+        },
+        "document_index": 6,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "True/False",
+        "difficulty_level": "Understand",
+        "question": "The personalization principle suggests that multimedia lessons in a conversational style lead to better learning outcomes than a formal style.",
+        "correct_answers": [
+            "True"
+        ],
+        "answer_options": [],
+        "explanation": "Personalization, like using conversational language, encourages learners to actively relate material to existing knowledge, enhancing understanding.",
+        "hint": "Reflect on how the style of language in instructions affects students\u2019 engagement levels.",
+        "created_at": {
+            "$date": "2025-01-02T23:54:11.659Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "677cff983dfc933c909fab68"
+        },
+        "document_index": 6,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "How does Social Agency Theory explain the effect of social cues on learning in multimedia environments?",
+        "correct_answers": [
+            "Social cues activate a social response, facilitating deeper learner engagement through cognitive processing."
+        ],
+        "answer_options": [
+            "Social cues activate a social response, facilitating deeper learner engagement through cognitive processing.",
+            "Social cues primarily aim to support factual retention without enhancing emotional involvement.",
+            "Social cues are designed to boost morale by emphasizing enjoyable learning experiences.",
+            "Social cues ensure precise content delivery, minimizing the potential for misinterpretation."
+        ],
+        "explanation": "Social Agency Theory posits that the presence of social cues fosters a feeling of partnership, encouraging learners to participate actively in cognitive processing and thereby enhance learning outcomes.",
+        "hint": "Consider how social cues impact learner motivation and their interaction with instructional content.",
+        "created_at": {
+            "$date": "2025-01-07T10:19:04.637Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "677d12f03dfc933c909fab74"
+        },
+        "document_index": 6,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Open-Ended",
+        "difficulty_level": "Remember",
+        "question": "What are social cues in the context of multimedia learning, and why are they considered important?",
+        "correct_answers": [
+            "Social cues in multimedia learning refer to elements like tone of voice, gestures, or personalized language that are designed to facilitate a connection between the learner and the content. They are important because they engage learners, enhance motivation, and improve comprehension by making the learning experience more interactive and relatable."
+        ],
+        "answer_options": [],
+        "explanation": "Social cues are critical in multimedia environments as they help in bridging the gap between learners and content by creating a more engaging and interactive experience. They aim to increase learner involvement and understanding by incorporating social elements into the learning process.",
+        "hint": "Consider the elements that make a learning experience feel more personalized and interactive.",
+        "created_at": {
+            "$date": "2025-01-07T11:41:36.829Z"
+        },
+        "rubric": "\n  - 3 points: Fully addresses the key elements with detail and depth.\n  - 2 points: Partially addresses the key elements but lacks some detail.\n  - 1 point: Mentions relevant concepts but lacks sufficient explanation.\n  - 0 points: Does not address the question or provides irrelevant information."
+    },
+    {
+        "_id": {
+            "$oid": "677d13843dfc933c909fab7b"
+        },
+        "document_index": 6,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "How does the personalization principle improve learning outcomes in multimedia environments?",
+        "correct_answers": [
+            "By modifying instructional messages to include conversational elements and referencing the learner personally."
+        ],
+        "answer_options": [
+            "By modifying instructional messages to include conversational elements and referencing the learner personally.",
+            "By using complex language to challenge learners intellectually.",
+            "By removing any reference to the learner to maintain objectivity.",
+            "By presenting information in the third-person point of view to maintain formality."
+        ],
+        "explanation": "The personalization principle proposes that learning is enhanced when instructional messages are delivered in a conversational tone and refer directly to the learner. This approach helps students relate the material to themselves, fostering improved understanding and retention.",
+        "hint": "Consider how the use of personal pronouns and conversational tone can affect engagement and comprehension in learners.",
+        "created_at": {
+            "$date": "2025-01-07T11:44:04.901Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "677d22ba3dfc933c909fab82"
+        },
+        "document_index": 6,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Apply",
+        "question": "In what way can the voice principle be applied to enhance learning outcomes in multimedia presentations?",
+        "correct_answers": [
+            "By incorporating a narration featuring a natural, native human voice rather than a synthesized machine voice to strengthen human-to-human communication."
+        ],
+        "answer_options": [
+            "By incorporating a narration featuring a natural, native human voice rather than a synthesized machine voice to strengthen human-to-human communication.",
+            "By ensuring the narrator uses a monotone and neutral voice to maintain focus on the content.",
+            "By alternating between human and synthesized voices to provide variety and maintain interest.",
+            "By minimizing voice cues altogether to maintain minimal distractions for the learner."
+        ],
+        "explanation": "Applying the voice principle involves using natural, native human voices in multimedia instruction, as this enhances the feeling of human-to-human interaction, encouraging engagement and improving learning outcomes.",
+        "hint": "Consider the impact of familiar and natural voice cues compared to synthetic voices on learner engagement and performance.",
+        "created_at": {
+            "$date": "2025-01-07T12:48:58.865Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "677d22d23dfc933c909fab89"
+        },
+        "document_index": 6,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "How does social agency theory explain the role of social cues in multimedia learning?",
+        "correct_answers": [
+            "Social cues create a partnership between the instructor and the learner, which motivates learners to make sense of the information."
+        ],
+        "answer_options": [
+            "Social cues create a partnership between the instructor and the learner, which motivates learners to make sense of the information.",
+            "Social cues primarily serve to reduce extraneous processing and focus only on essential content.",
+            "Social cues diminish the need for conversational language, simplifying the instructional material.",
+            "Social cues are considered unnecessary for fostering motivation in learners."
+        ],
+        "explanation": "Social agency theory posits that social cues, like conversational language or human-like gestures, create a partnership between instructors and learners, enhancing motivation and engagement in cognitive processing, vital for meaningful learning.",
+        "hint": "Consider what role social clues play in forming relationships and partnerships in a learning context.",
+        "created_at": {
+            "$date": "2025-01-07T12:49:22.138Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "677d23153dfc933c909fab90"
+        },
+        "document_index": 6,
+        "user_id": {
+            "$oid": "670e5639fdbcd2bb731d12f8"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Apply",
+        "question": "How can social agency theory be applied to improve multimedia learning environments?",
+        "correct_answers": [
+            "Use embodied pedagogical agents that perform human-like gestures to enhance cognitive processing."
+        ],
+        "answer_options": [
+            "Use embodied pedagogical agents that perform human-like gestures to enhance cognitive processing.",
+            "Employ computer-generated voices since they are neutral and not distracting.",
+            "Integrate formal language styles for consistency in information delivery.",
+            "Avoid using narrations as they slow down the learning process."
+        ],
+        "explanation": "Applying social agency theory involves using human-like qualities, such as gestures in multimedia environments, to create a sense of partnership with learners and enhance understanding.",
+        "hint": "Consider which approaches would enhance engagement and cognitive processing in a multimedia learning context.",
+        "created_at": {
+            "$date": "2025-01-07T12:50:29.851Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "677d69053dfc933c909fab9e"
+        },
+        "document_index": 6,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "How does the use of social cues in multimedia learning contribute to generative processing?",
+        "correct_answers": [
+            "By integrating social cues, students feel socially connected, fostering motivation and engagement."
+        ],
+        "answer_options": [
+            "Social cues enhance cognitive overload by adding complexity to the instructions.",
+            "By integrating social cues, students feel socially connected, fostering motivation and engagement.",
+            "Incorporating social cues reduces the need for the presence of a human instructor.",
+            "Social cues primarily focus on improving the aesthetic quality of multimedia materials."
+        ],
+        "explanation": "Social cues facilitate a sense of connection and partnership between the learner and the instructor, which motivates learners to engage in generative processing, resulting in deeper learning.",
+        "hint": "Consider how feeling socially connected can impact a learner\u2019s motivation and engagement with the material.",
+        "created_at": {
+            "$date": "2025-01-07T17:48:53.799Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "677d69723dfc933c909faba8"
+        },
+        "document_index": 6,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "How do social cues in multimedia learning influence student engagement and cognitive processing?",
+        "correct_answers": [
+            "They increase student engagement and enhance generative processing by creating a social connection."
+        ],
+        "answer_options": [
+            "They increase student engagement and enhance generative processing by creating a social connection.",
+            "Social cues primarily enhance aesthetic aspects of the multimedia lesson and are unrelated to learner engagement.",
+            "Social cues are distracting and increase the cognitive load without any positive impact on learning.",
+            "They only benefit non-native speakers in multimedia learning environments."
+        ],
+        "explanation": "Social cues create a sense of partnership with the learner, enhancing motivation and engagement, which leads to increased generative processing.",
+        "hint": "Consider the role of social connection in enhancing cognitive engagement.",
+        "created_at": {
+            "$date": "2025-01-07T17:50:42.050Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "677d69723dfc933c909faba9"
+        },
+        "document_index": 6,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "What does the personalization principle suggest about the role of language style in multimedia learning?",
+        "correct_answers": [
+            "A polite or conversational style of language helps students relate more to the material."
+        ],
+        "answer_options": [
+            "Formal language styles are more effective for engaging students.",
+            "A polite or conversational style of language helps students relate more to the material.",
+            "The language style has no significant impact on how students engage with multimedia content.",
+            "Direct language instructions outperform conversations in terms of learning outcomes."
+        ],
+        "explanation": "A polite or conversational language style encourages students to engage in self-referential processing, relating new information to existing knowledge.",
+        "hint": "Think about how language style affects a student's personal connection to the material.",
+        "created_at": {
+            "$date": "2025-01-07T17:50:42.074Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "677d69723dfc933c909fabaa"
+        },
+        "document_index": 6,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "When incorporating images of instructors or pedagogical agents in multimedia, what has research suggested about their effect on learning outcomes?",
+        "correct_answers": [
+            "The presence of an image typically enhances learning motivation and significantly improves outcomes."
+        ],
+        "answer_options": [
+            "Images increase cognitive load and do not significantly benefit learning outcomes.",
+            "The presence of an image typically enhances learning motivation and significantly improves outcomes.",
+            "Images are crucial for effective learning in multimedia presentations.",
+            "They consistently enhance learning outcomes across different multimedia contexts."
+        ],
+        "explanation": "",
+        "hint": "",
+        "created_at": {
+            "$date": "2025-01-07T17:50:42.099Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "677d69723dfc933c909fabab"
+        },
+        "document_index": 6,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Understand",
+        "question": "What potential future research area is suggested regarding the effects of social cues in multimedia learning?",
+        "correct_answers": [
+            "Longitudinal studies are needed to understand the persistence of benefits from social cues."
+        ],
+        "answer_options": [
+            "Research should focus solely on short-term memory recall in educational settings.",
+            "Longitudinal studies are needed to understand the persistence of benefits from social cues.",
+            "Current research is comprehensive, and no additional studies are necessary.",
+            "The research should focus on improving graphics and presentation aesthetics only."
+        ],
+        "explanation": "Long-term studies can reveal whether the motivational and engagement benefits of social cues endure over extended learning periods.",
+        "hint": "Think about the importance of understanding how effects last over time.",
+        "created_at": {
+            "$date": "2025-01-07T17:50:42.124Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "677d6d483dfc933c909fabc3"
+        },
+        "document_index": 3,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Apply",
+        "question": "Imagine you are designing a multimedia learning module on environmental science for high school students. How could you apply the emotional design principle to make the module more effective?",
+        "correct_answers": [
+            "Use warm colors and anthropomorphic characters in the visuals."
+        ],
+        "answer_options": [
+            "Use warm colors and anthropomorphic characters in the visuals.",
+            "Incorporate complex narratives that require additional cognitive effort.",
+            "Integrate random interactive quizzes without context.",
+            "Ensure all visual elements use grayscale to focus on content."
+        ],
+        "explanation": "Warm colors and anthropomorphic characters can activate positive emotions, enhancing engagement and learning without increasing cognitive load.",
+        "hint": "Consider design elements that evoke emotions without adding to cognitive processing demands.",
+        "created_at": {
+            "$date": "2025-01-07T18:07:04.759Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "677d6d483dfc933c909fabc4"
+        },
+        "document_index": 3,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Apply",
+        "question": "How could an instructional designer implement the findings from research on emotion induction using seductive details in a multimedia learning environment?",
+        "correct_answers": [
+            "By ensuring all materials are strictly aligned with learning objectives."
+        ],
+        "answer_options": [
+            "By adding interesting yet irrelevant pictures to increase engagement.",
+            "By ensuring all materials are strictly aligned with learning objectives.",
+            "By removing all colorful elements to minimize distractions.",
+            "By integrating frequent assessment checks throughout the content."
+        ],
+        "explanation": "While seductive details may increase engagement, they often distract from learning objectives and are not aligned with emotional design principles that focus on beneficial emotion induction without adding cognitive load.",
+        "hint": "Think about the trade-off between attractiveness and cognitive processing load.",
+        "created_at": {
+            "$date": "2025-01-07T18:07:04.795Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "677d6d483dfc933c909fabc5"
+        },
+        "document_index": 3,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Apply",
+        "question": "A game-based learning module aimed at developing executive functions is being designed. How might you apply emotional design to increase its effectiveness for older adolescents?",
+        "correct_answers": [
+            "Implement high emotional arousal characters with expressive visuals."
+        ],
+        "answer_options": [
+            "Implement high emotional arousal characters with expressive visuals.",
+            "Focus on dull and neutral game mechanics for consistency.",
+            "Use textual descriptions to solely convey emotion.",
+            "Minimize the use of colors to avoid distractions."
+        ],
+        "explanation": "Characters with high emotional arousal through expressive visuals are shown to enhance emotional engagement, particularly effective in training cognitive skills for older adolescents.",
+        "hint": "Contemplate how character designs might affect emotional and cognitive engagement.",
+        "created_at": {
+            "$date": "2025-01-07T18:07:04.819Z"
+        },
+        "rubric": ""
+    },
+    {
+        "_id": {
+            "$oid": "677d6d483dfc933c909fabc6"
+        },
+        "document_index": 3,
+        "user_id": {
+            "$oid": "670e56499f54e6fc577eeb28"
+        },
+        "question_type": "Multiple Choice",
+        "difficulty_level": "Apply",
+        "question": "When planning a multimedia lesson on history, how could an educator effectively utilize the emotional design principle to facilitate student retention?",
+        "correct_answers": [
+            "Design historical characters with round shapes and warm colors."
+        ],
+        "answer_options": [
+            "Design historical characters with round shapes and warm colors.",
+            "Ensure the lesson materials maintain a somber, serious tone throughout.",
+            "Incorporate unrelated trivia to spark interest.",
+            "Deploy monochrome visuals and strict testing after each segment."
+        ],
+        "explanation": "Applying round shapes and warm colors to historical characters might evoke positive emotions, subsequently boosting retention without increasing cognitive load.",
+        "hint": "Focus on using visual design strategies that could naturally enhance emotional engagement.",
+        "created_at": {
+            "$date": "2025-01-07T18:07:04.843Z"
+        },
+        "rubric": ""
+    }
+]
