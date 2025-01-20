@@ -47,6 +47,7 @@ def main():
         st.header(f"Question: {question['question']}")
         st.subheader(f"Type: {question['question_type']}")
         st.write(f"Explanation: {question.get('explanation', 'No explanation provided.')}")
+        st.write(f"Correct Answer: {question.get('correct_answers', 'No answers provided.')}")
 
         if question.get("answer_options"):
             st.write("### Answer Options:")
